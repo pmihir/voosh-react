@@ -18,3 +18,15 @@ You will also see any lint errors in the console.
 - Sign In Page
 
     ![](Screens/Sign-In.PNG)
+
+- Kindly click on Sign in with Google for Next Page
+
+    ![](Screens/Waiting.PNG)
+
+- Please wait for 3 seconds for Dashboard Page
+
+    ![](Screens/Dashboard-1.PNG) ![](Screens/Dashboard-2.PNG)
+    
+- Please click on Top Total Sales card to see Total Sales Details
+
+    ![](Screens/Sales-details.PNG)
