@@ -25,7 +25,7 @@ You will also see any lint errors in the console.
 
 - Dashboard
 
-    ![](Screens/Dashboard-1.PNG) ![](Screens/Dashboard-2.PNG)
+    ![](Screens/Dashboard-1.PNG)    ![](Screens/Dashboard-2.PNG)
     
 - Please click on Top Total Sales card to see Total Sales Details
 
