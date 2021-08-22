@@ -1,0 +1,13 @@
+.voosh-btn {
+  width: 115px;
+  border-radius: 46px;
+  height: 35px;
+  border: none;
+  background: #ffffff;
+  letter-spacing: 0.1rem;
+}
+.waiting-logout {
+  background-color: #edeff1;
+  font-weight: 700;
+  font-size: 1.5rem;
+}

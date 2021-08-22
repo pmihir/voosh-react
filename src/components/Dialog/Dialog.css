@@ -1,0 +1,46 @@
+.dialog-container {
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  z-index: 1000;
+  padding: 1rem;
+  /* margin-bottom: 2rem; */
+  padding-bottom: 4rem;
+  padding-top: 2rem;
+  border-top-left-radius: 2.5rem;
+  border-top-right-radius: 2.5rem;
+}
+.dialog-total-sales {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+  letter-spacing: 0.1rem;
+}
+.dialog-description {
+  color: #3f434c;
+  font-size: 1.8rem;
+  letter-spacing: 0.05rem;
+  margin-bottom: 3rem;
+}
+.dialog-categoryType {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+.dialog-category {
+  color: #262d30;
+  font-size: 1.8rem;
+}
+.dialog-category-price {
+  color: #262d30;
+  font-weight: 900;
+  font-size: 1.8rem;
+  margin-right: 1rem;
+}
+.dialog-close-icon {
+  font-size: 2.5rem;
+}
+.dialog-icon-wrapper {
+  text-align: right;
+  margin-right: 1.5rem;
+}

@@ -1,0 +1,93 @@
+.login-container {
+  padding: 4rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.voosh-logo {
+  width: 12rem;
+}
+.welcome {
+  font-size: 3rem;
+  color: #3f414e;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.2rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
+}
+.mail-text {
+  font-family: "Roboto";
+  font-size: 1.5rem;
+  text-align: center;
+  width: 85%;
+  letter-spacing: 0.1rem;
+  color: #a1a4b2;
+  margin-top: 1.5rem;
+}
+.google-signin-btn {
+  margin-top: 1.5rem;
+  display: flex;
+}
+.google-btn {
+  background-color: white;
+  outline: none;
+  border: 1px solid #ebeaec;
+  border-radius: 5rem;
+  text-transform: uppercase;
+  /* width: 3.28rem; */
+  width: 32.8rem;
+  height: 6.4rem;
+  /* padding: 1rem 4rem 2rem 1rem; */
+  font-size: 1.5rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.google-icon {
+  font-size: 3rem;
+}
+.signin-txt {
+  font-size: 1.8rem;
+  margin-left: 2rem;
+  text-decoration: none;
+  /* text-decoration: none; */
+  /* color: inherit; */
+  color: #3f414e;
+}
+.contact-support-txt {
+  font-size: 1.5rem;
+  font-family: "Roboto";
+  letter-spacing: 0.1rem;
+  color: #a1a4b2;
+  width: 85%;
+  text-align: center;
+  margin-top: 1.5rem;
+  font-weight: bold;
+}
+
+.contact-form {
+  display: flex;
+  margin-top: 3rem;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 25rem;
+}
+.contact-support-btn {
+  width: 340px;
+  height: 63px;
+  background: linear-gradient(90deg, #ff5920 -14.76%, #ffa20f 106.83%);
+  border-radius: 38px;
+  border: none;
+  color: #f6f1fb;
+  padding: 1.8rem 0;
+  font-size: 1.6rem;
+  letter-spacing: 0.1rem;
+  font-family: "Roboto";
+}
+.waiting-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}

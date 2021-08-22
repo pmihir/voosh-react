@@ -1,0 +1,12 @@
+.form-input {
+  padding-left: 2rem;
+  width: 328px;
+  height: 63px;
+  border-radius: 15px;
+  background: #f2f3f7;
+  border: none;
+  letter-spacing: 0.1rem;
+  font-size: 2rem;
+  font-family: "Roboto";
+  color: #a1a4b2;
+}

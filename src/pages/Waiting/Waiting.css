@@ -1,0 +1,62 @@
+.waiting-container {
+  padding: 2rem 1rem;
+}
+.waiting-logout-btn {
+  text-align: right;
+}
+.waiting-title {
+  margin-top: 3rem;
+  text-align: center;
+}
+.waiting-welldone {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 4rem;
+  letter-spacing: 0.01rem;
+}
+.waiting-welcome {
+  font-size: 3rem;
+  font-style: normal;
+  line-height: 4rem;
+  font-weight: 200;
+  letter-spacing: 0.01rem;
+}
+.waiting-fetch-data {
+  color: #c0c2d1;
+  /* font-family: 'Roboto'; */
+  font-size: 1.6rem;
+  text-align: center;
+  width: 70%;
+  /* text-align: center; */
+  margin: auto;
+  margin-top: 3rem;
+}
+.folder-icon {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 25rem;
+  color: #f3f4f4;
+}
+.wait-elipse {
+  position: absolute;
+  top: 30px;
+  right: 10rem;
+}
+.wait-done {
+  position: absolute;
+  color: black;
+  top: 40px;
+  right: 11rem;
+}
+.wait-icons {
+  position: relative;
+}
+.voosh-partners {
+  text-align: center;
+  font-size: 1.6rem;
+  width: 60%;
+  margin: auto;
+}
+.voosh-partner-link {
+  color: #ff5920;
+}
