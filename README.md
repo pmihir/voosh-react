@@ -15,15 +15,15 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Kindly open this Application in Mobile screen as it is developed for Mobile screens only for Now.
-- Sign In Page
+- Sign In Page. Kindly click on Continue with Google for Next Page
 
     ![](Screens/Sign-In.PNG)
 
-- Kindly click on Sign in with Google for Next Page
+- Please wait for 3 seconds for Dashboard Page
 
     ![](Screens/Waiting.PNG)
 
-- Please wait for 3 seconds for Dashboard Page
+- Dashboard
 
     ![](Screens/Dashboard-1.PNG) ![](Screens/Dashboard-2.PNG)
     
